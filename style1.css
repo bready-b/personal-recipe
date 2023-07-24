@@ -1,5 +1,7 @@
 body {
   background-color: orange;
+  border-style: groove;
+  border-radius: 10px;
 }
 
 img {

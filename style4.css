@@ -8,6 +8,8 @@
 
 body {
   background-color: lightgray;
+  border-style: solid;
+  border-radius: 10px;
 }
 
 h1 {
@@ -28,11 +30,17 @@ p {
   width: 30%;
   padding: 0px;
   font-family: sans-serif;
+  margin: 20px;
 }
 
 h2 {
   font-weight: bold;
   font-family:cursive;
+  margin: 20px;
+}
+
+h2:hover {
+  text-decoration: underline;
 }
 
 ul {
